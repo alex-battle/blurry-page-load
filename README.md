@@ -1,6 +1,6 @@
 # blurry-page-load
 
-Demo Link:
+Demo Link: git ahttp://alex-burbery-load.surge.sh/
 
 
 Upon load background image starts off blurred and as percentage gets close to 100% background image is clear and percentage disappears.
